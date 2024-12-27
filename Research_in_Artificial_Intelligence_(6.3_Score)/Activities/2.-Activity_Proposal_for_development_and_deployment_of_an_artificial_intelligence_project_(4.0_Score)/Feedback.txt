@@ -1,0 +1,13 @@
+Hola Nicolás,
+
+Los requisitos del sistema para la validación automática de las fuentes activas en un entorno geográfico determinado están bien expuestos y argumentados. Sin embaro, el proyecto apenas está esbozado en su planteamiento.
+
+Como aspectos de mejora no se ha desarrollado la arquitectura de la aplicación y la relación entre los diferentes elementos que lo componen, por lo que se desconoce qué capacidades tecnológicas son necesarias. Igualmente no se ha desarrollado la metodología agile indicada aplicada al proyecto (solo se ha identificado)  y no existe la identificación de los perfiles necesarios. Tampoco se ha desarrollado el apartado de tratamiento de los datos y no se ha esbozado al menos la planificiación del proyecto.
+
+Respecto a la presentación y redacción, están en general muy cuidadas.
+
+Confío que estas sugerencias te sirvan para identificar los puntos de mejora de la actividad.
+
+Un saludo cordial,
+
+Luis Miguel

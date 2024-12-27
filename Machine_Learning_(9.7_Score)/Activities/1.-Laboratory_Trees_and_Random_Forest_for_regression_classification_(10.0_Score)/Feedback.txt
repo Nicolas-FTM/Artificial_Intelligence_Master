@@ -1,0 +1,12 @@
+The learner performs a descriptive analysis of the data in an appropriate way.
+Performs an adequate treatment of the null values found. 
+Analyses very well the results of applying classifiers when working with elimination of columns or rows with missing values.
+Analyses very well the results of applying classifiers when working with imputation of missing values with mean and interpolation. 
+The decision tree classifier is applied to the classification problem. Very good for coding. 
+The random forest classifier is applied for the classification problem. 
+Comment on the results obtained for the classification problem, after applying the two classifiers.
+
+PCA would be interesting to apply it and remove the columns with a very high % of NA, you are right. 
+The overall report is excellent and detailed.  Very good work!
+
+Translated with DeepL.com (free version)

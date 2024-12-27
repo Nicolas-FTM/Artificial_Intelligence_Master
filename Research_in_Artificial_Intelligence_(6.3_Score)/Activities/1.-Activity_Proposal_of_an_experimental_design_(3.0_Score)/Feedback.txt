@@ -1,0 +1,13 @@
+Hola Nicolás,
+
+El reto que planteas relativo a la resolución de paradojas por modelos de pensamiento artificiales, es enormemente interesante. Desde luego es original aunque la hipótesis que planteas no es tal sino que planteas una pregunta con un resultado de cálculo.
+
+Además, en el desarrollo lo que planteas es cómo resolver estadísticamente/matemáticamente la pregunta anterior, pero este enfoque no el de realizar un experimento. No hay que confundirlo con la descripción de un metodología y la identificación de grupos/datos
+
+Al no ser un experimento, tampoco existen criterios de evaluación de los resultados y la interpretación de los mismos. 
+
+El problema es replicable, como cualquier problema matemático, pero no se trata de un experimento que siga el método científico.
+
+Saludos,
+
+Luis Miguel

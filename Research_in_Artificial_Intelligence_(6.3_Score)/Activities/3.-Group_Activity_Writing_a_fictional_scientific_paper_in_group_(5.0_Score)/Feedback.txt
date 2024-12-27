@@ -1,0 +1,21 @@
+Hola Nicolás,
+
+He revisado vuestra actividad grupal: redacción de un artículo científico, con respecto al reconocimiento de especies ornitológicas.
+
+¡Enhorabuena por el esfuerzo!
+
+Me gustaría comentaros algunos aspectos:
+
+El abstract debe tener una breve descripción de los métodos utilizados.
+Los capítulos son demasiado cortos. Debe profundizarse mucho más en cada uno de ellos.
+La motivación del problema está poco argumentada.
+El estado del arte es poco representativo al problema y solo existe una única referencia.
+El modelo propuesto y el diseño de la experimentación es correcto. Se deben detallar los resultados.
+Con respecto a las conclusiones, se indican afirmaciones que no se han indicado antes, como que el estudio es para el cuidado de aves en peligro de extinción.
+La presentación y redacción está muy cuidada. El uso de LaTex es correcto.
+El porcentaje de similitud con turnitin es de 11%, algo aceptable.
+¡ Animo !
+
+Saludos,
+
+LuisMi
