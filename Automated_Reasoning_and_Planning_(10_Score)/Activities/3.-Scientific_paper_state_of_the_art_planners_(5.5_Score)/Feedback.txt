@@ -1,0 +1,16 @@
+Gracias por la actividad,
+
+Os comento aquí según los puntos de la rúbrica.
+
+- Explicación breve de los 4 planificadores. Es algo breve, en todos los planificadores se podría profundizar un poco más.
+
+Hay cierta confusión en el primero entre lo que es un planificador y lo que es un dominio. La actividad consiste en la comparativa de planificadores, no tiene que ver con dominios. Es importante que aclaréis estos términos ya que confundirlos os pueden llevar a no entender alguna pregunta en el examen. De hecho hay incluso términos como "ejemplo del algoritmo PDDL" donde los términos se mezclan totalmente. El término "algoritmo PDDL" no tiene sentido.
+
+- Evidencia proceso de instalación. No se evidencia.
+- Formato de artículo. Hay ,muchas carencias, que podéis consultar en la clase de resolución. La más importante es colocar junto a cada elemento que se introduce una cita que me lleve al artículo (no a la página web) donde se describe: Avantherd, FF, LAMA, ACOPLAN, etc.
+
+En las conclusiones también se ve que hay conceptos que revisar. PDDL proporciona un modelo simbólico de dominio y problema; luego se puede usar un planificador creado en python, C, LISP o cualquier lenguaje. Son conceptos muy diferentes.
+
+Un saludo y mucha suerte en el examen.
+
+Alejandro

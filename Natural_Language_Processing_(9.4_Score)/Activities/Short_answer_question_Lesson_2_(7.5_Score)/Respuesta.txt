@@ -1,0 +1,11 @@
+Describe en menos de 200 palabras qué es la normalización de textos y por qué puede ser necesaria. En tu descripción deberás además responder a las siguientes cuestiones: ¿qué es la tokenización?, ¿qué es la lematización?, ¿qué son las stop words?
+
+La normalización de los textos se trata de una etapa previa al análisis en la cual se realizan procesos de limpieza y filtrado para facilitar dicho estudio.
+
+Existen bastantes técnicas como, por ejemplo, la eliminación de signos de puntuación, la poda de espacios en los textos o de caracteres, en concreto, hasta el hecho de castear cadenas de texto de minúsculas a mayúsculas o, al contrario.
+
+Se denomina tokenizacion a un proceso donde una cadena de strings es dividida en lo que llamaremos tokens, que son unidades léxicas (palabra, sílaba, ...) que aportan un sentido al análisis.
+
+Se denomina lematización al proceso por el cual se obtiene el lexema de una palabra mediante la eliminación de los morfemas.
+
+Se denomina stop words a aquellas palabras que en el análisis no ofrecen información lexicológica relevante como los artículos, nexos, entre otros.

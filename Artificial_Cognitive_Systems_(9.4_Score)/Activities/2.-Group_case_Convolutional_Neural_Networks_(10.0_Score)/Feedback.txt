@@ -1,0 +1,12 @@
+Buenas Estela, Franciso y Felipe,
+
+Os dejo feedback de vuestra actividad,
+
+- Respecto a la parte 1 de la rúbrica, superáis el 85% así que conseguís los 3,5 puntos. 
+ 
+- Respecto a la parte 3 de la rúbrica, cumplís con la experimentación justa para alcanzar la máxima puntuación pues hacéis 3 modelos. Aplicáis data augmentation. Aplicáis regularización Dropout pero no otras como BatchNormalization, L2, etc.... Habéis probado con fully connected. Usáis Early stopping. (3,5 puntos).
+
+- Respecto a la parte 3 de la rúbrica, el código es claro y la evaluación es buena. Están bien las conclusiones finales. He echado de menos una comparación global de las métricas final, pero no pasa nada (3 puntos).
+
+Tenéis un 10. 
+Un saludo. 

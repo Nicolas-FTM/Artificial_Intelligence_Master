@@ -1,0 +1,5 @@
+Word Embeding es el vector en sí, no la técnica para generarlo. La técnica puede ser CBoW, Skip-Gram, Fasttext, ELMO, BERT...
+
+Otra ventaja sobre BoW es la reducción de la dimensionalidad. BoW suele partir de one-hot-encoding, que genera una dimensionalidad muy alta, y word-embeding lo reduce típicamente a dimensión 300.
+
+La explicación de auto-supervisado se queda un poco corta.

@@ -1,0 +1,1 @@
+Explica, en menos de 200 palabras, el algoritmo de Lesk. Tu explicación deberá responder a las siguientes cuestiones: ¿qué problema resuelve?, ¿qué recursos, o información de entrada, necesita este algoritmo?, ¿qué variantes existen para el algoritmo y cuál es la diferencia entre ellas?

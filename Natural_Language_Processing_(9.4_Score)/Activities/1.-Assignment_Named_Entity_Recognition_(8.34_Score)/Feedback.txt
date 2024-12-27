@@ -1,0 +1,14 @@
+Buenas Nicolas,
+
+He revisado tus ejercicios, y tengo los siguientes comentarios:
+
+• La segunda pregunta es muy discordante, ya que el resultado correcto son 92, y no 81
+• Para la tercera pregunta, la respuesta es 67, recuerda la simplicidad del código, a veces ayuda a entender mejor el resultado.
+- La quinta pregunta, identificas bien las stop words, pero debes realizarlo a todo el “doc”, puntuas la mitad
+• La sexta pregunta, claramente menciona el atributo del token. Te invito a que revises las claes, para que veas el error.
+• En la pregunta 8, recuerda los conceptos de entidades que se vio en clase, si revisas el código te darás cuenta del error que tienes a la hora de hacer el conteo.
+
+
+El resto está bien.
+Un saludo,
+Javier

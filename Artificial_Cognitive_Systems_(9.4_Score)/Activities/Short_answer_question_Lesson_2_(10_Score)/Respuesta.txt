@@ -1,0 +1,7 @@
+Describe el algoritmo del descenso del gradiente. ¿En qué consiste? ¿Cómo se eligen los puntos iniciales? ¿Cómo decide donde avanzar? ¿Cuándo se alcanzaría su convergencia? 
+
+En redes neuronales, definimos el algoritmo del descenso del gradiente como un algoritmo enfocado en la optimización del error cuadrático medio (nuestra función de error) que depende del número de pesos, es decir, f(w1, w2, w3, ...) = ECM.
+
+Si nos imagináramos un mapa de 3 dimensiones (una red neuronal de dos entradas con sus pesos asociados w1 y w2), en este caso, serían (x = w1, y = w2, z = ECM), el objetivo sería ir moviéndonos entre x e y para conseguir minimizar el ECM. 
+
+En este caso, los puntos iniciales se eligen de forma aleatoria para que el algoritmo pueda empezar de forma rápida a ejecutarse. Una vez que nos encontramos en un punto (w1,w2) realizamos el gradiente de la función de error, este gradiente nos proporciona el vector máximo de ascenso. Como nosotros buscamos el vector máximo de descenso, negamos las componentes del vector máximo de ascenso. De esta manera iríamos moviéndonos en dicha dirección hasta que el gradiente sea cero donde convergería el algoritmo y nos encontraríamos en un mínimo. (PD: al ser la inicialización de los puntos aleatoria, es posible que nos encontremos en un valle y el mínimo sea local)

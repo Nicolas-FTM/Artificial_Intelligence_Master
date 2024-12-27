@@ -1,0 +1,1 @@
+Hola, buen trabajo. Eliges un problema real y buscas una solución que, aunque es simple, funciona. La memoria está bien, si bien se echa de menos un poco de profundidad en la evaluación y en la explicación técnica. El código es correcto, aunque se podría documentar mejor. Enhorabuena

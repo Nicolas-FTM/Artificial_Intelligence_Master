@@ -1,0 +1,7 @@
+El enunciado impone un límite de 200 palabras, que has superado con tu respuesta.
+
+Das a entender que la versión probabilística de CKY no utilizase una gramática libre de contexto. Sí que la utiliza, con la particularidad adicional de que ésta está anotada semánticamente.
+
+Un término muy importante, que no has nombrado, es el de desambiguación. Es decir, el CKY probabilístico lo que hace es resolver la ambigüedad sintáctica escogiendo el resultado de mayor probabilidad.
+
+Acerca de los datos adicionales que necesita CKY probabilístico, es importante mencionar que las probabilidades de cada una de las reglas están calculadas a través de un corpus, y por tanto podrán variar de un corpus a otro.

@@ -1,0 +1,7 @@
+¿Qué problemas tienen las Redes Neuronales Clásicas que no las hacen especialmente buenas tratando problemas de imágenes y llevó a la aparición de las Redes Neuronales Convolucionales? Analízalas desde el punto de vista dimensional, computacional y de aprendizaje.
+
+Las Redes Neuronales Clásicas (RNC) presentan limitaciones al tratar problemas de imágenes debido a su estructura plana, que no considera la dimensionalidad espacial. Esto impide capturar características locales importantes en imágenes y dificulta el aprendizaje de características invariantes a la traslación. Además, las RNC requieren una gran cantidad de parámetros para procesar imágenes de alta resolución, lo que aumenta la complejidad computacional.
+
+La aparición de las Redes Neuronales Convolucionales (RNCv) resolvió estos problemas. Las RNCv utilizan operaciones de convolución, que consideran la relación espacial entre los píxeles y capturan características locales. Además, implementan compartición de pesos y operaciones de agrupación para reducir la complejidad computacional y la cantidad de parámetros necesarios. Esto facilita el entrenamiento y el procesamiento eficiente de imágenes.
+
+En resumen, las RNCv superan las limitaciones de las RNC al considerar la dimensionalidad espacial de las imágenes, reducir la complejidad computacional y permitir el aprendizaje de características invariantes a la traslación. Como resultado, las RNCv son herramientas poderosas en el procesamiento de imágenes.

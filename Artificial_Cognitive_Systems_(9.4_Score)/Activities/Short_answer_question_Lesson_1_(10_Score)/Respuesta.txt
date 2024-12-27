@@ -1,0 +1,9 @@
+Acerca de un modelo MLP (Multi Layer Perceptron)… ¿Cuántas neuronas se habrían entrenado? ¿A qué tipo de modelo de aprendizaje automático se puede asemejar? ¿Podría capturar relaciones no lineales en los datos? ¿Funcionaría con distribuciones no linealmente separables como conjuntos de datos XOR?  (Tu respuesta a todas estas cuestiones debe ocupar un máximo de 200 palabras)
+
+Cuando hablamos de redes neuronales y en este caso, de perceptron multicapa, podemos estar hablando de un sistema capaz de emular casi que cualquier función matemática, en este problema la función xor, por lo que:
+
+1.- El número de neuronas depende del número de neuronas de entrada, el número de neuronas en la capa oculta y el número de neuronas de salida. Dicho cantidad va acorde con la complejidad del problema (mayor numero de neuronas, mayor complejidad) 
+
+2.- El perceptron multicapa es un modelo de aprendizaje supervisado que sirve tanto para hacer clasificaciones como para predicciones en base a patrones.
+
+3.- El perceptron SI que puede ser usado para capturar relaciones no lineales ya que para ello se utilizan las capas ocultas, por eso a mayor complejidad del problema, mayor número de capas ocultas, por lo que para el problema de la puerta lógica XOR, sería fácilmente resoluble con una MLP

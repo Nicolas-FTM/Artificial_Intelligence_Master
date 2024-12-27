@@ -1,0 +1,9 @@
+Explica, en menos de 200 palabras, la diferencia entre los algoritmos CKY y CKY probabilístico. En tu explicación deberás además responder a las siguientes cuestiones: ¿qué problema resuelve el algoritmo CKY?, ¿Qué tipo de gramática necesita?, ¿qué problema adicional resuelve el CKY probabilístico?, ¿qué información adicional necesita?
+
+El algoritmo CKY es una técnica de análisis sintáctico que se utiliza para determinar si una cadena de entrada pertenece a una gramática dada en forma normal de Chomsky. Por otro lado, el algoritmo CKY probabilístico es una versión más avanzada que no solo resuelve el problema de pertenencia, sino que también estima la probabilidad de que una cadena sea generada por una gramática probabilística.
+
+La gramática que se necesita para el algoritmo CKY es en forma normal de Chomsky, mientras que para el algoritmo CKY probabilístico se necesita una gramática que asocie una probabilidad a cada regla de producción.
+
+El CKY probabilístico resuelve un problema adicional al calcular la probabilidad de la cadena de entrada, lo que se logra mediante el uso de información adicional, como las probabilidades asociadas a cada regla de producción. Durante el proceso de análisis de la entrada, el algoritmo CKY probabilístico calcula la probabilidad de cada subcadena generada por cada regla de producción y, finalmente, utiliza estas probabilidades para estimar la probabilidad total de la cadena de entrada.
+
+En resumen, el algoritmo CKY es una técnica de análisis sintáctico que resuelve el problema de pertenencia de una cadena a una gramática en forma normal de Chomsky, mientras que el algoritmo CKY probabilístico es una versión avanzada que también estima la probabilidad de la cadena de entrada.

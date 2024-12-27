@@ -1,0 +1,5 @@
+Buena respuesta. Algunos comentarios:
+
+Confundes lema con lexema. En la lematización, se obtienen los lemas.
+
+Falta explicar qué se hace con las stop words y, en general, una redacción menos telegramática y que aporte una coherencia global al texto.

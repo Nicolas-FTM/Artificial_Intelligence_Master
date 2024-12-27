@@ -1,0 +1,11 @@
+Muchas gracias por la actividad.
+
+Os comento a continuación según los puntos de la rúbrica.
+
+Código PDDL. Lo veo correcto, trata las capacidades y explícitamente valores máximos y mínimos de contadores.
+Resolución y comentarios sobre resolución. Ejecuta correctamente. No se analizan los resultados (sólo al final). No se habla de la traza de ejecución del planificador (qué búsqueda usa, etc.)
+Situaciones adicionales y comentarios. La comparativa podría profundizar más en las razones por las que cada ejemplo tiene más o menos tiempo de planificación (o nodos expandidos). Esto es interesante para intentar visualizar cómo las acciones muy genéricas son flexibles, permitiendo ciertos tipos de soluciones, pero puede que requieran mayores recursos en forma de nodos expandidos.
+Documento. Muy bien, pero estaría mejor con más análisis sobre resultados, comparativa, etc
+Enhorabuena por la resolución, un saludo,
+
+Alejandro
